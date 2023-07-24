@@ -31,7 +31,7 @@ A model's size is directly related to the number of model parameters. Small mode
 
 ### Quantization
 
-LLMs require a large amount of memory. Quantization is a method of compressing the LLM by reducing the number of bits used to represent the model weights. This form of compression is lossy however, so the smaller the model becomes the less accurate it becomes. Typically model weights are represented as 16 bit floating point numbers. Common quantization methods reduce the number of bits to 2, 3, 4, 5 or 8.
+LLMs require a large amount of memory. Quantization is a method of compressing the LLM by reducing the number of bits used to represent the model weights. This form of compression is lossy however, so the smaller the model becomes the less accurate it becomes. Typically model weights are represented as 32 bit floating point numbers. Common quantization methods reduce the number of bits to 2, 3, 4, 5 or 8.
 
 ### LLM Lineage
 
@@ -50,7 +50,7 @@ Fine tuned models typical require the input prompt to be formatted in a specific
 
 ### Context Window Length
 
-The input and output of any LLM is limited by it's supported context window length. Initially most models were limited to 1024 - 2048 tokens, but recently we've seen a number of models with larger context sizes.
+The input and output of any LLM is limited by it's supported context window length. Initially most models were limited to 1024 - 2048 tokens, but recently we've seen a number of models with larger context sizes (4096, 8192).
 
 ### License
 
