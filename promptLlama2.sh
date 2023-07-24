@@ -7,7 +7,7 @@ SYSTEM="You are a helpful assistant. Always answer as helpfully as possible. If 
 #SYSTEM="You are a helpful, and honest assistant. Always answer as helpfully as possible. If a question does not make any sense, or is not factually coherent, explain why instead of answering something not correct. If you don't know the answer to a question, please don't share false information."
 #SYSTEM="You are a helpful, respectful and honest assistant. Always answer as helpfully as possible, while being safe.  Your answers should not include any harmful, unethical, racist, sexist, toxic, dangerous, or illegal content. Please ensure that your responses are socially unbiased and positive in nature. If a question does not make any sense, or is not factually coherent, explain why instead of answering something not correct. If you don't know the answer to a question, please don't share false information."
 
-INSTRUCTION1="Write a python function to calculation the slope and y intercept for a line that minimizes the sum of the squared differences between the points and the line for a set of floats."
+INSTRUCTION1="Write a python function to calculation the slope and y intercept for a line that minimizes the sum of the squared differences between the points and the line for a set of coordinates. Answer with code."
 INSTRUCTION2="Write a poem about how awesome Greg is. Be very descriptive and make it rhyme."
 INSTRUCTION3="If Jane is faster than Sam and Sam is faster than Rahul, is Jane faster than Rahul? Explain your reasoning."
 INSTRUCTION4="Who was the Prime Minister of Canada, the year that Justin Bieber was born? Explain your reasoning."
