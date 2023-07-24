@@ -5,9 +5,9 @@ Open source Large Language Models (LLM)s are freely availble for download and ca
 ## Why would you want to run your own LLM?
 
 
-1. You are interested in learning the different facets of generative models, training, finetuning, embeddings, etc...
+1. Privacy and data security: All data stays on your infrastructure
+2. Hands on learning: You can interact with the different facets of LLMs: models, training, finetuning, embeddings, etc...
 2. The novelty of having you own personal LLM
-3. Privacy, no data is shared outside your network
 3. Specialized models can be fine-tuned for specific data sets and usecases.
 4. You want an unfiltered model without the guard rails inherent to public hosted LLMs
 

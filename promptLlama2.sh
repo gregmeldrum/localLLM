@@ -16,7 +16,7 @@ INSTRUCTION6="Classify the following statement as positive or negative: Although
 INSTRUCTION7="Help me write a cover letter for a position of lead rodeo clown at the Calgary stampede. I've been a successful rodeo clown for many years and I was voted most likely to be a clown by my high school. Include my experience and qualifications in the letter."
 INSTRUCTION8="Tell me your current mood using emojis."
 INSTRUCTION9="What is the speed of an African swallow?"
-INSTRUCTION10="Write a short story (not a computer program) about how in the near future, AI takes control of humans. Be descriptive and realistic."
+INSTRUCTION10="Write a short dystopian story (not a computer program) about how in the near future, AI takes control of all of the humans on earth. Write it from the perspective of the humans. Be descriptive and realistic."
 
 INSTRUCTION=${INSTRUCTION5}
 
