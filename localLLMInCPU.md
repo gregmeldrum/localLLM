@@ -10,7 +10,7 @@ There are many models to chose from. Since Meta has recently released their Llam
 
 # LLaMa.cpp
 
-[LLaMa.cpp]() An implementation of the LLaMa inference engine written in C/C++. It supports running models in CPU and on Apple M1/M2 GPUs.
+[LLaMa.cpp](https://github.com/ggerganov/llama.cpp) An implementation of the LLaMa inference engine written in C/C++. It supports running models in CPU and on Apple M1/M2 GPUs.
 
 To download and build (requires gcc + make):
 
